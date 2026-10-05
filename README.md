@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-CRM-Software-Legacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-CRM-Software-Legacy?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-CRM-Software-Legacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-CRM-Software-Legacy?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-CRM-Software-Legacy/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-CRM-Software-Legacy?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -81,9 +81,9 @@ This repository tracks notable **legacy CRM platforms**, **modern cloud SaaS pro
 
 ## 🔓 Open-Source CRM Alternatives
 
-*Sorted by star count (descending). Star badge links directly to each repository's stargazers page.*
+*Sorted by Stars_Count (descending). Stars_Badge links directly to each repository's stargazers page.*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |---|---|---|
 | **[Odoo](https://github.com/odoo/odoo)** | **Comprehensive open-source ERP with integrated CRM module.** Covers sales, marketing, inventory, accounting, HR, and more. **LGPLv3 licensed**. | [<img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/>](https://github.com/odoo/odoo/stargazers) |
 | **[Twenty](https://github.com/twentyhq/twenty)** | **Modern open-source CRM alternative to Salesforce.** Built with React, GraphQL, and TypeScript. Modern UI with full data control. **Apache 2.0 licensed**. | [<img src="https://img.shields.io/github/twentyhq/twenty?style=social&color=white" alt="Twenty Stars"/>](https://github.com/twentyhq/twenty/stargazers) |
